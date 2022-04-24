@@ -47,7 +47,7 @@ if(isset($_POST['regis'])){
 <html>
 <head>
 	<title>Form Registrasi</title>
-	<link rel="stylesheet" type="text/css" href="cok.css">
+	<link rel="stylesheet" type="text/css" href="login.css">
 </head>
 <body>
  
